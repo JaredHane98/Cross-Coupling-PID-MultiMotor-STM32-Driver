@@ -1,4 +1,4 @@
-The following repoitory is a showcase of a motor driver that is currently underdevelopment. It features cross coupling PID motor controller, I2C message format, I2C DAC support, and more. 
+The following repoitory is a motor driver that is currently underdevelopment. It features cross coupling PID motor controller, I2C interrupts, I2C DAC support, and more. 
 
 
 
